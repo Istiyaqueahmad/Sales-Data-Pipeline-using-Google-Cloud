@@ -1,5 +1,4 @@
-# Sales-Data-Pipeline-using-Google-Cloud
-# Google Cloud Data Analytics Project
+# Sales-Data-Pipeline-using-Google-Cloud -- Google Cloud Data Analytics Project
 
 This repository contains code and configuration files for Google Cloud Data Analytics Project.This project demonstrates the integration of several GCP services to create an efficient and automated data pipeline for sales data. We'll show you how to:
 
